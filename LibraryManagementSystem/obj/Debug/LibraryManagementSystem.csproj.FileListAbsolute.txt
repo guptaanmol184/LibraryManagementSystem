@@ -1,0 +1,54 @@
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.changePassword.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.login.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.userBookSearch.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.usrIssuedBooks.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admStartPage.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admBookSearch.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admEditBookDB.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admEditStudentDB.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admIssue.resources
+E:\darklord\lms\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admReturn.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admBookSearch.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admEditBookDB.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admEditStudentDB.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admIssue.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admReturn.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admStartPage.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.changePassword.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.login.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.userBookSearch.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.usrIssuedBooks.resources
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\darklord\all\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admBookSearch.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admEditBookDB.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admEditStudentDB.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admIssue.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admReturn.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.admStartPage.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.changePassword.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.login.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.userBookSearch.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.usrIssuedBooks.resources
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\anmol.gupta\Desktop\C# Stuff I Made\LMS\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C62AD8E6-6B4E-4EAB-A7EC-1CB954753E48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibraryManagementSystem</RootNamespace>
+    <AssemblyName>LibraryManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admBookSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admBookSearch.Designer.cs">
+      <DependentUpon>admBookSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admEditBookDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admEditBookDB.Designer.cs">
+      <DependentUpon>admEditBookDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admEditStudentDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admEditStudentDB.Designer.cs">
+      <DependentUpon>admEditStudentDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admIssue.Designer.cs">
+      <DependentUpon>admIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admReturn.Designer.cs">
+      <DependentUpon>admReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admStartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admStartPage.Designer.cs">
+      <DependentUpon>admStartPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changePassword.Designer.cs">
+      <DependentUpon>changePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="userBookSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userBookSearch.Designer.cs">
+      <DependentUpon>userBookSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usrIssuedBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usrIssuedBooks.Designer.cs">
+      <DependentUpon>usrIssuedBooks.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admBookSearch.resx">
+      <DependentUpon>admBookSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admEditBookDB.resx">
+      <DependentUpon>admEditBookDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admEditStudentDB.resx">
+      <DependentUpon>admEditStudentDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admIssue.resx">
+      <DependentUpon>admIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admReturn.resx">
+      <DependentUpon>admReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admStartPage.resx">
+      <DependentUpon>admStartPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changePassword.resx">
+      <DependentUpon>changePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="userBookSearch.resx">
+      <DependentUpon>userBookSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usrIssuedBooks.resx">
+      <DependentUpon>usrIssuedBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AlarmAnalysis.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
